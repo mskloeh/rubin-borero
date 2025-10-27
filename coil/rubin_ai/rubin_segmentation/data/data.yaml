@@ -1,0 +1,8 @@
+# C:\coil\rubin_ai\rubin_segmentation\data\data.yaml
+train: C:/coil/rubin_ai/rubin_segmentation/data/datasets/train/images
+val:   C:/coil/rubin_ai/rubin_segmentation/data/datasets/valid/images
+test:  C:/coil/rubin_ai/rubin_segmentation/data/datasets/test/images
+
+task: segment
+nc: 8
+names: ['Blue','Center','Face','Green','Orange','Red','White','Yellow']

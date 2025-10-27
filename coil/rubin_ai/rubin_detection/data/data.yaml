@@ -1,0 +1,10 @@
+# C:/coil/rubin_ai/rubin_detection/data/data.yaml
+path: C:/coil/rubin_ai/rubin_detection/data/datasets
+train: train/images
+val:   valid/images
+test:  test/images
+
+nc: 2
+names:
+  0: corner
+  1: cube
